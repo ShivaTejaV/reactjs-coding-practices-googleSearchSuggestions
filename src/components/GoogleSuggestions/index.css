@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 25vh;
+  width: 40vw;
+}
+
+.searchBar {
+  width: 50vw;
+  height: 5vh;
+  border-style: none;
+  border-color: #ffffff;
+}
+
+.list {
+  list-style-type: none;
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-radius: 2vw;
+  padding-bottom: 10px;
+}
+
+.searchIcon {
+  height: 5vh;
+}
+
+.searchBarContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

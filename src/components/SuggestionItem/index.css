@@ -1,0 +1,20 @@
+/* Write your CSS */
+
+.listItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 5vh;
+  font-family: Roboto;
+  padding-left: 5%;
+}
+
+.suggestionText {
+  color: #475569;
+  font-size: 2em;
+}
+
+.arrowIcon {
+  height: 20px;
+  width: 20px;
+}
